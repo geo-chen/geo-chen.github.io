@@ -6,7 +6,7 @@
 
 https://docs.pwntools.com/en/stable/install.html
 
-Decoding flag behind a 5-byte key
+Decoding flag behind a XORed 5-byte key
 ```from pwn import xor, unhex
 t = unhex('2e313f2702184c5a0b1e321205550e03261b094d5c171f56011904')
 print(xor(t, t[:5], 'CHTB{'))
