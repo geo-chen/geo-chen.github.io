@@ -1,3 +1,4 @@
 theme: jekyll-theme-modernist
-baseurl: ""
+baseurl: "/"
 url: "https://spigeo.github.io"
+title: "404"
