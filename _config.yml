@@ -2,3 +2,12 @@ theme: jekyll-theme-modernist
 baseurl: ""
 url: "https://spigeo.github.io"
 title: "Error"
+
+---
+layout: page
+title: "About" 
+subtitle: "This is a subtitle"   
+permalink: /1.md                     # Set a permalink your your page
+hide: true                           # Prevent the page title to appear in the navbar
+icon: "fa-search"                    # Will Display only the fontawesome icon (here: fa-search) and not the title
+---
