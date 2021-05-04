@@ -3,8 +3,8 @@
 
 
 ## PWN
-IDA - binary analysis
+[IDA](https://www.hex-rays.com/ida-pro/) - binary analysis
 
-ROPGadget - to find gadgets and to build ROP chains
+[ROPGadget](https://github.com/JonathanSalwan/ROPgadget) - to find gadgets and to build ROP chains
 
-OneGadget - to find libc addresses that returns a shell
+[OneGadget](https://github.com/david942j/one_gadget) - to find libc addresses that returns a shell
