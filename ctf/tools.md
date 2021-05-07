@@ -8,5 +8,7 @@
 
 [checksec](https://github.com/slimm609/checksec.sh) - to check the properties of executables (like PIE, RELRO, PaX, Canaries, ASLR, Fortify Source)
 
+ltrace - A library call tracer
+
 
 ## Forensics
