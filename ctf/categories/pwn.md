@@ -1,7 +1,9 @@
 
 
 ### Base code for Linux exploitation obtained from https://thalium.github.io/blog/posts/apocalypse2021-pwn/
+
 ```
+
 from pwn import gdb, context, log, ELF, remote, process, p64, u64
 from os import listdir, path
 import sys
@@ -174,4 +176,5 @@ if __name__ == "__main__":
     # Select context 32 or 64 bits
     set_context64()
     main()
-    ```
+    
+```
